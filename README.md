@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khanh Khuat</h1>
-<h3 align="center">A software developer in mind, a problem solver at heart</h3>
+<h3 align="center">A software engineer in mind, a problem solver at heart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhkhuat1504&label=Profile%20views&color=0e75b6&style=flat" alt="khanhkhuat1504" /> </p>
 
