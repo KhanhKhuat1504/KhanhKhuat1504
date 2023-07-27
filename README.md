@@ -36,8 +36,7 @@
 
 <div> 
 
-![Snake animation](https://raw.githubusercontent.com/<username>/<repo>/snake/github-contribution-grid-snake.svg)
-![Snake animation dark mode](https://raw.githubusercontent.com/<username>/<repo>/snake/github-contribution-grid-snake-dark.svg)
+![Snake animation dark mode](https://raw.githubusercontent.com/KhanhKhuat/KhanhKhuat1504/snake/github-contribution-grid-snake-dark.svg)
 
 </div>
 
