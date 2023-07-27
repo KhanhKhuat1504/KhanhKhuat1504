@@ -34,7 +34,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhkhuat1504&" alt="khanhkhuat1504" /></p>
 
-<!--START_SECTION:snake-->
-![Snake animation](github-snake.svg)
-<!--END_SECTION:snake-->
+<div> 
+ 
+ </br> 
+</br>
+  <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/KhanhKhuat1504/KhanhKhuat1504/snake/github-contribution-grid-snake.svg" width="100%">
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+</div>
 
