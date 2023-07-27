@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhkhuat1504&" alt="khanhkhuat1504" /></p>
 <h1 align="center">Github Contribution</h1>
-<img src="https://raw.githubusercontent.com/KhanhKhuat1504/KhanhKhuat1504/snake/github-contribution-grid-snake-dark.svg" style="width:100%;">
+<img src="https://raw.githubusercontent.com/KhanhKhuat1504/KhanhKhuat1504/snake/github-contribution-grid-snake.svg" style="width:100%;">
