@@ -36,7 +36,8 @@
 
 <div> 
 
-![Snake animation dark mode](https://raw.githubusercontent.com/KhanhKhuat/KhanhKhuat1504/snake/github-contribution-grid-snake-dark.svg)
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/KhanhKhuat1504/KhanhKhuat1504/snake/github-contribution-grid-snake.svg" width="100%">
 
 </div>
 
