@@ -36,8 +36,7 @@
 
 <div> 
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/KhanhKhuat1504/KhanhKhuat1504/snake/github-contribution-grid-snake.svg" width="100%">
+![github contribution grid snake animation](https://raw.githubusercontent.com/KhanhKhuat1504/KhanhKhuat1504/snake/github-contribution-grid-snake.svg)
 
 </div>
 
