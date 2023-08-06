@@ -11,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhanhKhuat1504](https://github.com/KhanhKhuat1504)
 
-- 📝 I regularly write articles on [https://medium.com/@ltk30](https://medium.com/@ltk30)
-
 - 💬 Ask me about **React, Vue, Fullstack Web Development**
 
 - 📫 How to reach me **lankhanh1504@gmail.com**
 
-- ⚡ Fun fact **I have a pub dog named Bom!**
+- ⚡ Fun fact **I have a pug dog named Bom!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
