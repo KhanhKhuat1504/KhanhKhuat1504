@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lankhanh1504@gmail.com**
 
-- ⚡ Fun fact **I have a pug dog named Bom!**
+- ⚡ Fun fact **My favourite Football Club is Liverpool!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
