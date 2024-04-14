@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanhkhuat1504" alt="khanhkhuat1504" /></a> </p>
 
-- 🔭 I’m currently working on [2D Renderer App](https://github.com/ProjectRwc/Rwc2dRenderer)
+- 🔭 I’m currently working on [Crux Project](https://crux-project.github.io/)
 
-- 🌱 I’m currently learning **LLM, Solid.JS**
+- 🌱 I’m currently learning **LLM, Spark**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhanhKhuat1504](https://github.com/KhanhKhuat1504)
 
-- 💬 Ask me about **React, Vue, Fullstack Web Development**
+- 💬 Ask me about **Fullstack Web Development and Data Science**
 
 - 📫 How to reach me **lankhanh1504@gmail.com**
 
