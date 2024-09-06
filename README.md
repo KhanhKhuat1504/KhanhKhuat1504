@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Crux Project](https://crux-project.github.io/)
 
-- 🌱 I’m currently learning **LLM, Spark**
+- 🌱 I’m currently learning **Graph Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhanhKhuat1504](https://github.com/KhanhKhuat1504)
 
-- 💬 Ask me about **Fullstack Web Development and Data Science**
+- 💬 Ask me about **Data Science and Fullstack Web Development**
 
 - 📫 How to reach me **lankhanh1504@gmail.com**
 
