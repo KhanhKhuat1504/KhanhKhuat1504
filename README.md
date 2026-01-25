@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khanh Khuat</h1>
 <h3 align="center">A software engineer in mind, a problem solver at heart</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhkhuat1504&label=Profile%20views&color=0e75b6&style=flat" alt="khanhkhuat1504" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhkhuat1504&label=Profile%20views&color=0e75b6&style=flat" alt="khanhkhuat1504" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanhkhuat1504" alt="khanhkhuat1504" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanhkhuat1504" alt="khanhkhuat1504" /></a> </p> -->
 
 - 🔭 I’m currently working on [Crux Project](https://crux-project.github.io/) and [XRD Project](https://mds3-coe.com/)
 
