@@ -5,6 +5,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanhkhuat1504" alt="khanhkhuat1504" /></a> </p> -->
 
+- 🌐 Personal website: [khanhkhuat.dev](https://khanhkhuat.dev)
+
 - 🔭 I’m currently working on [Crux Project](https://crux-project.github.io/) and [XRD Project](https://mds3-coe.com/)
 
 - 🌱 I’m currently learning **Graph Neural Networks**
